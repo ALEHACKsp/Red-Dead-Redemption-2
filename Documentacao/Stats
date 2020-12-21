@@ -1,0 +1,1065 @@
+
+Nome = "KILLS"
+Tipo: INT
+Descrição: Number of times killed with ammo
+
+Nome = "HITS"
+Tipo: INT
+Descrição: Number of hits made with this ammo
+
+Nome = "SHOTS"
+Tipo: INT
+Descrição: Number of shots made with this ammo
+
+Nome = "HEADSHOTS"
+Tipo: INT
+Descrição: Number of headshots made with this ammo
+
+Nome = "KILLED" 
+Tipo: INT
+Descrição: Quantity of this animal that the player has killed
+
+Nome = "KILLED_AFTER_MAULING"
+Tipo: INT
+Descrição: Number of times the player survived being mauled by this animal and additionally killed them
+
+Nome = "KILLED_WHILST_PLAYING_DEAD"
+Tipo: INT
+Descrição: Number of times the player killed the animal whilst it was playing dead
+
+Nome = "SKINNED"
+Tipo: INT
+Descrição: Number of times the player skinned this animal
+
+Nome = "PLUCKED"
+Tipo: INT
+Descrição: Number of times the player plucked this animal
+
+Nome = "COLLECTED"
+Tipo: INT
+Descrição: Number of times the player collected this animal into the pouch
+
+Nome = "TRACKED"
+Tipo: INT
+Descrição: Number of times this animal type has been tracked
+
+Nome = "CARCASS_DONATED"
+Tipo: INT
+Descrição: Number of times the player donated this animal into the gang butcher.
+
+Nome = "COOKED"
+Tipo: INT
+Descrição: Number of times this has been cooked from provision.
+
+Nome = "BOUNTY_CURRENT"
+Tipo: INT
+Descrição: The player's current wanted level
+
+Nome = "BOUNTY_CAREER"
+Tipo: INT
+Descrição: The total amount of wanted level type bounties placed on the player
+
+Nome = "BOUNTY_EVADED"
+Tipo: INT
+Descrição: Number of times evaded a bounty
+
+Nome = "HIGHEST_BOUNTY"
+Tipo: INT
+Descrição: Highest bounty ever achieved by the player
+
+Nome = "HELDTIME"
+Tipo: UINT64
+Descrição: Time held
+
+Nome = "SHOTS"
+Tipo: INT
+Descrição: Number of times gun fired
+
+Nome = "THROWS"
+Tipo: INT
+Descrição: Number of times weapon thrown
+
+Nome = "HITS"
+Tipo: INT
+Descrição: Number of times hit a ped or other objects
+
+Nome = "MISSES"
+Tipo: INT
+Descrição: Number of times missed a hit
+
+Nome = "HITS_PEDS"
+Tipo: INT
+Descrição: Number of times hit a ped that a living ped was in
+
+Nome = "HITS_PEDS_VEHICLES"
+Tipo: INT
+Descrição: Number of times hit a ped or a vehicle that a living ped was in
+
+Nome = "HITS_MISSION"
+Tipo: INT
+Descrição: Number of times hit during a mission
+
+Nome = "HITS_RECEIVED"
+Tipo: INT
+Descrição: Number of times the player has been hit
+
+Nome = "DAMAGE_TAKEN"
+Tipo: FLOAT
+Descrição: The amount of damage that the player received
+
+Nome = "SELF_DAMAGE_TAKEN"
+Tipo: FLOAT
+Descrição: The amount of damage that the player received from themselves
+
+Nome = "HEADSHOTS"
+Tipo: INT
+Descrição: Number of times killed by headshot
+
+Nome = "FURTHEST_KILL"
+Tipo: FLOAT
+Descrição: Furthest kill made by the player
+
+Nome = "UNARMED_PED_HITS"
+Tipo: INT
+Descrição: Number of times you've hit a ped while unarmed
+
+Nome = "WEAPON_ACCURACY"
+Tipo: FLOAT
+Descrição: Number HITS_PED * 100 / SHOTS
+
+Nome = "ASSISTS"
+Tipo: INT
+Descrição: Number of times the player has assisted in a kill
+
+Nome = "EXECUTIONS"
+Tipo: INT
+Descrição: Number of times killed by headshot
+
+Nome = "MELEE_COUNTERS"
+Tipo: INT
+Descrição: Number of Counters Performed
+
+Nome = "HATSHOTS"
+Tipo: INT
+Descrição: Number of times a hat is shot of a peds head
+
+Nome = "PERFECT_HATSHOTS"
+Tipo: INT
+Descrição: Number of times a hat is shot of a peds head without hurting the ped
+
+Nome = "DISARMS"
+Tipo: INT
+Descrição: Number of times a gun is shot out of a peds hand
+
+Nome = "PERFECT_DISARMS"
+Tipo: INT
+Descrição: Number of times a gun is shot out of a peds hand without hurting the ped
+
+Nome = "GUN_AND_HAT_TRICKS"
+Tipo: INT
+Descrição: Number of times HATSHOTS and DISARMS happen to the same ped.
+
+Nome = "EXPLOSIVES_USED"
+Tipo: INT
+Descrição: Number of Explosives used
+
+Nome = "TIME_AIMING_DOWN_SIGHTS"
+Tipo: UINT64
+Descrição: Amount of time the player has spent aiming down sights
+
+Nome = "EXPLOSIVE_DAMAGE_HITS"
+Tipo: INT
+Descrição: Number of explosive damage weapons hits.
+
+Nome = "EXPLOSIVE_DAMAGE_SHOTS"
+Tipo: INT
+Descrição: Number of explosive damage weapons shots.
+
+Nome = "TOTAL_LEGITIMATE_KILLS"
+Tipo: INT
+Descrição: Total number of kills from checkpoints.
+
+Nome = "SUICIDES"
+Tipo: INT
+Descrição: Total number of times the player has commited suicide.
+
+Nome = "KILLS"
+Tipo: INT
+Descrição: Number of kills in state
+
+Nome = "DAMAGE_INFLICTED"
+Tipo: FLOAT
+Descrição: Amount of damage done to peds of type
+
+Nome = "KNOCKOUTS"
+Tipo: INT
+Descrição: Number of times knocked out a ped with non-leathal melee attacks
+
+Nome = "DEATHS"
+Tipo: INT
+Descrição: Number of times player died
+
+Nome = "LIT_ON_FIRE"
+Tipo: INT
+Descrição: Number of times the player has lit type on fire
+
+Nome = "STREAK"
+Tipo: INT
+Descrição: The current run of this streak type
+
+Nome = "STREAK_BEST"
+Tipo: INT
+Descrição: The best run of this streak type
+
+Nome = "STREAK_ENDED"
+Tipo: INT
+Descrição: Number of times killed by headshot
+
+Nome = "HOLD_UP_CASH"
+Tipo: INT
+Descrição: How much cash you got from the ped types.
+
+Nome = "BUSTED"
+Tipo: INT
+Descrição: Number of times the player was arrested
+
+Nome = "WINDOWS_BROKEN"
+Tipo: INT
+Descrição: How many windows the player has broken
+
+Nome = "ATTEMPTED_HOLD_UPS"
+Tipo: UINT32
+Descrição: Number of attempted holdups.
+
+Nome = "HOLD_UPS"
+Tipo: UINT32
+Descrição: Number of successful holdups.
+
+Nome = "HOLD_UPS_IN_TOWN"
+Tipo: UINT32
+Descrição: Number of successful holdups while in a town.
+
+Nome = "CR_C"
+Tipo: INT
+Descrição: Current crime count
+
+Nome = "CR_L"
+Tipo: INT
+Descrição: Lifetime crime count
+
+Nome = "KILLS"
+Tipo: INT
+Descrição: Number of kills
+
+Nome = "DEATHS"
+Tipo: INT
+Descrição: Number of deaths
+
+Nome = "ANIMAL_KILLS"
+Tipo: INT
+Descrição: Number of animals killed
+
+Nome = "SHOTTIME"
+Tipo: UINT64
+Descrição: Amount of time in drive by
+
+Nome = "SHOTS"
+Tipo: INT
+Descrição: Number of times fired weapon
+
+Nome = "HEADSHOTS"
+Tipo: INT
+Descrição: Number of kills by headshot with weapon
+
+Nome = "HITS"
+Tipo: INT
+Descrição: Number of hits landed
+
+Nome = "HITS_PEDS"
+Tipo: INT
+Descrição: Number of times hit a ped
+
+Nome = "HITS_PEDS_VEHICLES"
+Tipo: INT
+Descrição: Number of times hit a ped or a vehicle that a ped is in
+
+Nome = "FISH_CAUGHT"
+Tipo: INT
+Descrição: Fishing - fish caught
+
+Nome = "CAUGHT"
+Tipo: INT
+Descrição: Number of times the player caught this animal while fishing
+
+Nome = "BIGGEST_CAUGHT"
+Tipo: FLOAT
+Descrição: Size of the biggest fish caught, in pounds.
+
+Nome = "FISH_CAUGHT_IN"
+Tipo: INT
+Descrição: Number of times we have caught a fish in this vehicle type
+
+Nome = "FISH_CAUGHT"
+Tipo: INT
+Descrição: Number of times we have caught a fish
+
+Nome = "RARE_FISH_CAUGHT"
+Tipo: INT
+Descrição: Number of times we have caught a rare fish
+
+Nome = "LEGENDARY_FISH_CAUGHT"
+Tipo: INT
+Descrição: Number of times we have caught a legendary fish
+
+Nome = "FISH_CAUGHT_ON_TRAIN_TRACKS"
+Tipo: INT
+Descrição: Number of times we have caught a fish from train tracks
+
+Nome = "BIGGEST_FISH_CAUGHT"
+Tipo: FLOAT
+Descrição: Size of the biggest fish caught, in pounds.
+
+Nome = "TOTAL_LBS_OF_FISH_CAUGHT"
+Tipo: FLOAT
+Descrição: The sum of all of the fish caught, in pounds
+
+Nome = "HITS"
+Tipo: INT
+Descrição: Number of times hit a ped's hit region
+
+Nome = "DISMEMBERED"
+Tipo: INT
+Descrição: Number of times dismembered this limb type from peds
+
+Nome = "JUMPS_FROM_HORSE_TO"
+Tipo: INT
+Descrição: # of times the player has performed the action
+
+Nome = "JUMPS_FROM_WAGON_TO"
+Tipo: INT
+Descrição: # of times the player has performed the action
+
+Nome = "JUMPS_FROM_TRAIN_TO"
+Tipo: INT
+Descrição: # of times the player has performed the action
+
+Nome = "STOWED_HORSE"
+Tipo: INT
+Descrição: # of times the player has stowed this type on their horse
+
+Nome = "TIMES_LASSOED"
+Tipo: INT
+Descrição: Number of times that the player lassoed someone
+
+Nome = "TIMES_LASSO_RELEASED"
+Tipo: INT
+Descrição: Number of times the player released the lasso
+
+Nome = "TIMES_HOGTIED"
+Tipo: INT
+Descrição: Number of times that the player lassoed someone
+
+Nome = "DIST_DRAGGED"
+Tipo: FLOATDescrição: Distance the ped was dragged
+
+Nome = "LONGEST_DIST_DRAGGED"
+Tipo: FLOATDescrição: Distance the ped was dragged
+
+Nome = "TIMES_CUTFREE_HOGTIED"
+Tipo: INT
+Descrição: Number of times that the player hogtied someone
+
+Nome = "TIMES_DOUBLE_TAPPED_LASSO"
+Tipo: INT
+Descrição: Number of times that the player lassoed at a specific body part
+
+Nome = "TIMES_LASSOED_OFF_HORSE"
+Tipo: INT
+Descrição: Number of times that the player has lassoed someone off a horse
+
+Nome = "TIMES_HOGTIED_FROM_MOUNT"
+Tipo: INT
+Descrição: Number of times that the player hogtied someone after lassoing them from mount
+
+Nome = "TIMES_HOGTIED_ONTO_TRAIN_TRACKS"
+Tipo: INT
+Descrição: Number of times that the player hogtied someone on train tracks
+
+Nome = "TIMES_WAS_LASSOED"
+Tipo: INT
+Descrição: Number of times that the player lassoed someone
+
+Nome = "TIMES_WAS_HOGTIED"
+Tipo: INT
+Descrição: Number of times that the player lassoed someone
+
+Nome = "LOOTED"
+Tipo: INT
+Descrição: How many times you've looted
+
+Nome = "SKINNED_PELT_QUALITY"
+Tipo: INT
+Descrição: Count of skinned animals with the specific quality pelt
+
+Nome = "FIRST_PERSON_CAM_TIME"
+Tipo: UINT64
+Descrição: Total Multiplayer Playing time in first person camera.
+
+Nome = "THIRD_PERSON_CAM_TIME"
+Tipo: UINT64
+Descrição: Total Multiplayer Playing time in 3rd person camera.
+
+Nome = "TIMES_CHEATED"
+Tipo: INT
+Descrição: Number of times cheated
+
+Nome = "TOTAL_PLAYING_TIME"
+Tipo: UINT64
+Descrição: Total Playing time in milliseconds.
+
+Nome = "TOTAL_PLAYING_GAME_TIME"
+Tipo: UINT64
+Descrição: Total Playing time in game in seconds.
+
+Nome = "LONGEST_PLAYING_TIME"
+Tipo: UINT64
+Descrição: Longest Playing time since last death in milliseconds.
+
+Nome = "KILLS_SINCE_LAST_CHECKPOINT"
+Tipo: INT
+Descrição: All kills since last checkpoint
+
+Nome = "DIED_IN_MISSION"
+Tipo: INT
+Descrição: Number of times player died in a mission
+
+Nome = "LIFETIME_MONEY_SPENT"
+Tipo: UINT32
+Descrição: Lifetime total amount of SP cash money spent.
+
+Nome = "LIFETIME_MONEY_SPENT_IN_SHOPS"
+Tipo: UINT32
+Descrição: Lifetime total amount of cash money spent in shops.
+
+Nome = "LIFETIME_MONEY_EARNED"
+Tipo: UINT32
+Descrição: Lifetime total amount of SP cash money earned.
+
+Nome = "NUM_PICKEDUP"
+Tipo: INT
+Descrição: Number of this pickup item that was picked up.
+
+Nome = "PLAYER_LUCK"
+Tipo: FLOAT
+Descrição: 0-1 Luck modifier for looting more and also rarer items
+
+Nome = "FALL_HEIGHT"
+Tipo: INT
+Descrição: Controls the max height that player can drop without damage. Percentage of default value in code.
+
+Nome = "DIST"
+Tipo: FLOAT
+Descrição: Total Distance travelled in state
+
+Nome = "TIME"
+Tipo: UINT64
+Descrição: Total time travelling in state
+
+Nome = "TIMES_ENTERED"
+Tipo: INT
+Descrição: Number of times entered state
+
+Nome = "DIST"
+Tipo: FLOAT
+Descrição: Total Distance travelled in state
+
+Nome = "KILLS"
+Tipo: INT
+Descrição: Number of kills in state
+
+Nome = "SHOTS"
+Tipo: INT
+Descrição: Number of times shot while in the state
+
+Nome = "TIME_UNDERWATER"
+Tipo: UINT64
+Descrição: Total time underwater.
+
+Nome = "TIME_IN_WATER"
+Tipo: UINT64
+Descrição: Total time in water.
+
+Nome = "LONGEST_SURVIVED_FREEFALL"
+Tipo: FLOAT
+Descrição: Longest Survived free fall in meters.
+
+Nome = "LONGEST_SURVIVED_FREEFALL_FROM_EJECTION"
+Tipo: FLOAT
+Descrição: Longest Survived free fall from ejection in meters.
+
+Nome = "SURVIVED_FREEFALLS"
+Tipo: INT
+Descrição: # of times the player took damage and survived a free fall.
+
+Nome = "TOTAL_TIME_UNDERWATER"
+Tipo: UINT64
+Descrição: Total time underwater.
+
+Nome = "TIME_NOTDROWNINWATER"
+Tipo: UINT64
+Descrição: Total time underwater.
+
+Nome = "RANK"
+Tipo: INT
+Descrição: Attribute ranking
+
+Nome = "POINTS"
+Tipo: INT
+Descrição: Attribute points
+
+Nome = "SPECIAL_ABILITY_DEACTIVE_NUM"
+Tipo: INT
+Descrição: Number times dead-eye has been used.
+
+Nome = "SPECIAL_ABILITY_ACTIVE_NUM"
+Tipo: INT
+Descrição: Number times dead-eye has been used.
+
+Nome = "SPECIAL_ABILITY_ACTIVE_TIME"
+Tipo: UINT64
+Descrição: Total time dead-eye has been active.
+
+Nome = "STAMINA"
+Tipo: INT
+Descrição: Stamina
+
+Nome = "STAMINA_ACTION"
+Tipo: INT
+Descrição: Stamina Action
+
+Nome = "_SaveSpTimestamp"
+Tipo: UINT64
+Descrição: Singleplayer Savegame Timestamp
+
+Nome = "_SpProfileStatVersion"
+Tipo: UINT64
+Descrição: Singelplayer ProfileStat Version
+
+Nome = "_ScreenWidth"
+Tipo: INT
+Descrição: Screen width
+
+Nome = "_ScreenHeight"
+Tipo: INT
+Descrição: Screen height
+
+Nome = "MANUAL_SAVED"
+Tipo: INT
+Descrição: Number of times saved the game manually
+
+Nome = "AUTO_SAVED"
+Tipo: INT
+Descrição: Number of times saved the game automatically
+
+Nome = "ACCEPTED_EULA_VERSION"
+Tipo: UINT16
+Descrição: The value of the latest accepted Eula file.
+
+Nome = "ACCEPTED_PP_VERSION"
+Tipo: UINT16
+Descrição: The value of the latest accepted Privacy Policy file.
+
+Nome = "ACCEPTED_TOS_VERSION"
+Tipo: UINT16
+Descrição: The value of the latest accepted Terms of Service file.
+
+Nome = "MINORITY_REPORT"
+Tipo: UINT32
+Descrição: Number of times that Telemetry failed to flush in a row (gets cleared on every success)
+
+Nome = "UI_TRACK_TIMES"
+Tipo: INT
+Descrição: Number of this action was performed.
+
+Nome = "UI_TRACK_LAST_TIME"
+Tipo: UINT64
+Descrição: The last time this action was performed.
+
+Nome = "DIST_TYPE"
+Tipo: FLOAT
+Descrição: Total distance traveled in this vehicle type
+
+Nome = "DIST_DRIVING_TYPE"
+Tipo: FLOAT
+Descrição: Total distance driving this vehicle type
+
+Nome = "TIME_DRIVING_TYPE"
+Tipo: UINT64
+Descrição: Total time driving this vehicle type
+
+Nome = "DIST_PASS_TYPE"
+Tipo: FLOAT
+Descrição: Total distance riding as a passenger this vehicle type
+
+Nome = "TIME_PASS_TYPE"
+Tipo: UINT64
+Descrição: Total time riding as a passenger this vehicle type
+
+Nome = "DIST"
+Tipo: FLOAT
+Descrição: Total distance traveled in this vehicle type
+
+Nome = "DIST_DRIVING"
+Tipo: FLOAT
+Descrição: Total distance driving this vehicle type
+
+Nome = "DIST_PASS"
+Tipo: FLOAT
+Descrição: Total distance riding as a passenger in this vehicle type
+
+Nome = "REACHED_WANTED_LEVEL"
+Tipo: INT
+Descrição: Number of times the player reached this wanted level
+
+Nome = "EVADED_WANTED_LEVEL"
+Tipo: INT
+Descrição: Number of times the player evaded this wanted level
+
+Nome = "TIME_IN_WANTED_LEVEL"
+Tipo: UINT64
+Descrição: Total time in wanted level
+
+Nome = "LONGEST_TIME_IN_WANTED_LEVEL"
+Tipo: UINT32
+Descrição: Longest time in this wanted level
+
+Nome = "KILLS"
+Tipo: INT
+Descrição: Number of kills with the weapon mod
+
+Nome = "KILLS"
+Tipo: INT
+Descrição: Number of kills by weapon group
+
+Nome = "EXECUTIONS"
+Tipo: INT
+Descrição: Number of executions by weapon group
+
+Nome = "SHOTS"
+Tipo: INT
+Descrição: Number of shots by weapon group
+
+Nome = "HEADSHOTS"
+Tipo: INT
+Descrição: Number of headshots by weapon group
+
+Nome = "KILLS"
+Tipo: INT
+Descrição: Number of kills with weapon slot
+
+Nome = "EXECUTIONS"
+Tipo: INT
+Descrição: Number of executions with weapon slot
+
+Nome = "SHOTS"
+Tipo: INT
+Descrição: Number of shots with weapon slot
+
+Nome = "HITS"
+Tipo: INT
+Descrição: Number of hits with weapon slot
+
+Nome = "HEADSHOTS"
+Tipo: INT
+Descrição: Number of headshots by weapon slot
+
+Nome = "DEATHS"
+Tipo: INT
+Descrição: Number of times killed by weapon
+
+Nome = "KILLS"
+Tipo: INT
+Descrição: Number of times killed with weapon
+
+Nome = "HITS"
+Tipo: INT
+Descrição: Number of times hit with weapon
+
+Nome = "HELDTIME"
+Tipo: UINT64
+Descrição: Time held weapon (MS)
+
+Nome = "SHOTS"
+Tipo: INT
+Descrição: Number of times fired weapon
+
+Nome = "FURTHEST_KILL"
+Tipo: FLOAT
+Descrição: Furthest kill made by this weapon
+
+Nome = "HEADSHOTS"
+Tipo: INT
+Descrição: Number of times killed by headshot with weapon
+
+Nome = "REPICKED_UP"
+Tipo: INT
+Descrição: Number of times the thrown weapon was re-picked up
+
+Nome = "HATSHOTS"
+Tipo: INT
+Descrição: Number of times a hat is shot of a peds head
+
+Nome = "SKILL"
+Tipo: FLOAT
+Descrição: The player's skill with this wepaon, 0-100
+
+Nome = "FAVORITE_WEAPON"
+Tipo: UINT32
+Descrição: The favorite weapon hash.
+
+Nome = "FAVORITE_WEAPON_USEDCOUNT"
+Tipo: UINT64
+Descrição: Number of times favorite weapon used
+
+Nome = "TIMES_RELOADED"
+Tipo: UINT32
+Descrição: Count of the number of times the player has reloaded the gun.
+
+Nome = "WEAPON_SWITCHES"
+Tipo: UINT32
+Descrição: Count of the number of times the player has swapped weapons.
+
+
+Nome = "AMMO_BOUGHT"
+Tipo: INT
+Descrição: Ammo bought for weapon
+
+Nome = "COOKED"
+Tipo: INT
+Descrição: Number of times the player has cooked this animal at his campsite item spit
+
+Nome = "CAMPFIRE_GANG_KILLS"
+Tipo: INT
+Descrição: Number of times kill a gang member at their cmapfire.
+
+Nome = "HATS_SHOT_OFF_IN_DUELS"
+Tipo: INT
+Descrição: Hats Shot off in Duels
+
+Nome = "NUM_INNOCENT_PEDS_PUNCHED"
+Tipo: INT
+Descrição: Number of innocent peds the player has punched
+
+Nome = "STOLEN_HORSES_SOLD"
+Tipo: INT
+Descrição: Number of times the player has sold a stolen horse
+
+Nome = "STOLEN_WAGONS_SOLD"
+Tipo: INT
+Descrição: Number of times the player has sold a stolen wagon
+
+Nome = "CASH_REGISTERS_ROBBED"
+Tipo: INT
+Descrição: # of Cash Registers the player has robbed
+
+Nome = "STORE_ROBBERY_WITNESSED"
+Tipo: INT
+Descrição: # of times being witnessed robbing a Cash Registers
+
+Nome = "SECRET_SHOP_ROB_DISCOVERED"
+Tipo: INT
+Descrição: # of Secret Shop Robberies Discovered
+
+Nome = "HOUSES_ROBBED"
+Tipo: INT
+Descrição: # of Houses the player has robbed
+
+Nome = "BANK_ROBBERIES_STARTED"
+Tipo: INT
+Descrição: # of bank robberies started
+
+Nome = "FISH_ESCAPED"
+Tipo: INT
+Descrição: Number of times we failed to catch a fish
+
+Nome = "TOTAL_PROGRESS_MADE"
+Tipo: FLOATDescrição: Overall of progress made by the player
+
+Nome = "MISSIONS_PROGRESSED"
+Tipo: INT
+Descrição: Number of story missions and rcms progressed (can complete rmc stage but not strand)
+
+Nome = "GANG_AMBUSH_ENCOUNTERED"
+Tipo: INT
+Descrição: Number of gang ambushes encountered
+
+Nome = "GANG_HIDEOUT_COMPLETED"
+Tipo: INT
+Descrição: Number of gang hideouts completed
+
+Nome = "DISCOVERABLE_FOUND"
+Tipo: INT
+Descrição: Number of discoverables found
+
+Nome = "SHACK_FOUND"
+Tipo: INT
+Descrição: Number of shacks found
+
+Nome = "UNIQUE_BEATS_COMPLETED"
+Tipo: INT
+Descrição: Number of unique beats completed
+
+Nome = "BATHS_TAKEN"
+Tipo: INT
+Descrição: Number of baths taken
+
+Nome = "SHOWS_SEEN"
+Tipo: INT
+Descrição: Number of shows seen
+
+Nome = "THEATRE_VISITS"
+Tipo: INT
+Descrição: Number of Theatre visits
+
+Nome = "SPECIAL_PED_INTERACTION"
+Tipo: INT
+Descrição: Number of special ped interactions
+
+Nome = "DIFFERENT_MINIGAMES_WON"
+Tipo: INT
+Descrição: Minigames Won
+
+Nome = "BAR_MEALS_CONSUMED"
+Tipo: INT
+Descrição: Number of times the player ate at the bar
+
+Nome = "BAR_DRINKS_CONSUMED"
+Tipo: INT
+Descrição: Number of times the player drank at the bar
+
+Nome = "KILLED"
+Tipo: INT
+Descrição: Number of gang members kills
+
+Nome = "LEADER_KILLED"
+Tipo: BOOL
+Descrição: Whether the Gang Leader has been killed
+
+Nome = "PICK"
+Tipo: INT
+Descrição: Pick count for this herb
+
+Nome = "EATEN"
+Tipo: INT
+Descrição: Times the player ate this herb
+
+Nome = "USED_IN_RECIPE"
+Tipo: INT
+Descrição: Times this herb was used to craft
+
+Nome = "HONOR_REACHED_MIN"
+Tipo: INT
+Descrição: Times reached min honor (max evil)
+
+Nome = "HONOR_REACHED_MAX"
+Tipo: INT
+Descrição: Times reached max honor (max good)
+
+Nome = "HONOR_CURRENT"
+Tipo: INT
+Descrição: Current total honor (positive or negative)
+
+Nome = "HONOR_POSITIVE_TOTAL"
+Tipo: INT
+Descrição: Total of all positive honor gained
+
+Nome = "HONOR_NEGATIVE_TOTAL"
+Tipo: INT
+Descrição: Total of all negative honor gained (NOTE: This is a positive number!)
+
+Nome = "HORSES_BROKEN"
+Tipo: INT
+Descrição: # of Horse Broken at level (or all levels)
+
+Nome = "HORSE_STABLE_VISITS"
+Tipo: INT
+Descrição: # of times the player has visited the Stables
+
+Nome = "HORSE_STABLE_TIMES_LEFT_WITH_PURCHASED"
+Tipo: INT
+Descrição: # of times the player has left the Stables with a purchased horse
+
+Nome = "LOCK_BREAKER_ITEMS"
+Tipo: INT
+Descrição: Amount of lock breaker items that we have
+
+Nome = "MEDICINE_ITEMS"
+Tipo: INT
+Descrição: Amount of medicine items that we have
+
+Nome = "MEDICINE_ITEMS_USED"
+Tipo: INT
+Descrição: Amount of medicine items that the player has used
+
+Nome = "PROVISION_ITEMS_USED"
+Tipo: INT
+Descrição: Amount of provision items that the player has used
+
+Nome = "DEADEYE_ITEMS"
+Tipo: INT
+Descrição: Amount of Deadeye items that we have
+
+Nome = "DEADEYE_ITEMS_USED"
+Tipo: INT
+Descrição: Amount of Deadeye items that the player has used
+
+Nome = "MEDICINE_AND_DEADEYE_ITEMS"
+Tipo: INT
+Descrição: Amount of items we have that have both the medicine and deadeye flag
+
+Nome = "USED"
+Tipo: INT
+Descrição: Tracks item used count
+
+Nome = "COLLECTED"
+Tipo: INT
+Descrição: Tracks item collected count
+
+Nome = "DISCOVERED"
+Tipo: INT
+Descrição: Locations Discovered
+
+Nome = "ANIMALS_LONG_LOOTED"
+Tipo: INT
+Descrição: Number of times we have long looted animals
+
+Nome = "COOKED"
+Tipo: INT
+Descrição: Tracks meat item cooked counts
+
+Nome = "FAME"
+Tipo: INT
+Descrição: Gang Fame.  How well known the gang is.
+
+Nome = "GANG_MORALE"
+Tipo: INT
+Descrição: How happy the gang is
+
+Nome = "NUM_PEDS_ANTAGONIZED"
+Tipo: INT
+Descrição: Number of peds the player has antagonized
+
+Nome = "NUM_PEDS_HURT"
+Tipo: INT
+Descrição: Number of humans the player has hurt
+
+Nome = "NUM_WOMEN_HURT"
+Tipo: INT
+Descrição: Number of women the player has hurt or killed.
+
+Nome = "MPPLY_MELEECHLENGECOMPLETED"
+Tipo: BOOL
+Descrição: This is for the melee challenge
+
+Nome = "COMPLETED"
+Tipo: INT
+Descrição: Number of missions and rcm STRANDS passed
+
+Nome = "LAST_MISSION_NAME"
+Tipo: LABEL
+Descrição: SP last mission name. Character independent.
+
+Nome = "MISSION_NAME"
+Tipo: LABEL
+Descrição: Current Mission name
+
+Nome = "DEATHS_ON_CURRENT_DEED"
+Tipo: INT
+Descrição: Number of times died on current deed
+
+Nome = "CAREER_CASH"
+Tipo: INT
+Descrição: Total cash gained
+
+Nome = "ROBBED_CASH"
+Tipo: INT
+Descrição: How much chash the player has robbed from someone
+
+Nome = "GANG_SAVINGS_CASH"
+Tipo: INT
+Descrição: How much money has been stashed away by Dutch for the gangs retirement plan. (In cents)
+
+Nome = "CAMP_FUNDS_CASH"
+Tipo: INT
+Descrição: How much money has been contributed by gang members to the tithing box fund in camp. (In cents)
+
+Nome = "BANK_DEBT_CASH"
+Tipo: INT
+Descrição: How much money is owed to the bank. (In cents)
+
+Nome = "ATTEMPTS"
+Tipo: INT
+Descrição: Game mode started
+
+Nome = "WINS"
+Tipo: INT
+Descrição: Game mode wins/successes
+
+Nome = "WIN_STREAK"
+Tipo: INT
+Descrição: Game mode wins/successes in row
+
+Nome = "BEST_WIN_STREAK"
+Tipo: INT
+Descrição: Game mode wins/successes in row
+
+Nome = "LOSSES"
+Tipo: INT
+Descrição: Game mode losses/failures
+
+Nome = "WINS"
+Tipo: INT
+Descrição: Game mode wins/successes under conditions
+
+Nome = "BUSTED_PEDS_IN_POKER"
+Tipo: INT
+Descrição: Number of times the player has caused other peds to Bust
+
+Nome = "MADE"
+Tipo: INT
+Descrição: Number of times this recipe has been made
+
+Nome = "MADE_RECIPE_TYPE"
+Tipo: INT
+Descrição: Number of times this recipe type has been made
+
+Nome = "ROB_COMPLETED"
+Tipo: INT
+Descrição: Number of this type of robbery completed
+
+Nome = "HEALTHCORE_EMPTY_COUNT"
+Tipo: INT
+Descrição: Number of times player health core reached 0
+
+Nome = "STAMINACORE_EMPTY_COUNT"
+Tipo: INT
+Descrição: Number of times player stamina core reached 0
+
+Nome = "DEADEYECORE_EMPTY_COUNT"
+Tipo: INT
+Descrição: Number of times player deadeye core reached 0
+
+Nome = "SATCHEL_LIMIT"
+Tipo: BOOL
+Descrição: Are we at limit for satchel item of size
+
+
+
+
+
+
+
+
+
+
+
