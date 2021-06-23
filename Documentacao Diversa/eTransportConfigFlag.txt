@@ -1,0 +1,6 @@
+enum eTransportConfigFlag
+{
+	TCF_NotConsideredForEntryByLocalPlayer = 0,
+	TCF_NotConsideredForEntryByAllPlayers = 6,
+	TCF_DisableHonorModifiers = 16,
+};

@@ -1,0 +1,12 @@
+enum eUnlockFlags
+{
+	UF_INVALID = 0,
+	UF_NEW = (1 << 0),
+	UF_UNLOCKED = (1 << 1),
+	UF_VISIBLE = (1 << 2),
+	UF_0x706B9A92 = (1 << 3),
+	UF_LOOTABLE = (1 << 4),
+	UF_0xBFAFC010 = (1 << 5),
+	UF_0x2206645D = (1 << 6),
+	UF_0xB9C2A37E = (1 << 7)
+};
