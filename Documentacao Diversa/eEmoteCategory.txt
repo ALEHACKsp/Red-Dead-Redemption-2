@@ -1,0 +1,9 @@
+enum class eEmoteCategory
+{
+	Reaction,
+	Action,
+	Taunts,
+	Greets,
+	TwirlGun,
+	Dances
+};

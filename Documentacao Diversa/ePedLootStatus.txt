@@ -1,0 +1,7 @@
+enum ePedLootStatus
+{
+	PLS_NONE,
+	PLS_PRE_LOOT,
+	PLS_SAMPLING,
+	PLS_SKINNING
+};

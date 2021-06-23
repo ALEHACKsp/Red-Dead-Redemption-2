@@ -1,0 +1,6 @@
+enum eFleeAttribute
+{
+	FA_FORCE_EXIT_VEHICLE = (1 << 16),
+	FA_DISABLE_MOUNT_USAGE = (1 << 20),
+	FA_DISABLE_ENTER_VEHICLES = (1 << 22),
+};

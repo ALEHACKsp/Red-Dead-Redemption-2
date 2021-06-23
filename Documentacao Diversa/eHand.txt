@@ -1,0 +1,7 @@
+// eHandType from Max Payne 3
+enum eHand
+{
+	HAND_R,
+	HAND_L,
+	NUM_EHAND
+};

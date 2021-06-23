@@ -1,0 +1,22 @@
+enum eMotionState : Hash
+{
+	MotionState_ActionMode_Idle = 0xDA40A0DC,
+	MotionState_ActionMode_Run = 0x31BADE14,
+	MotionState_ActionMode_Walk = 0xD2905EA7,
+	MotionState_Aiming = 0x3F67C6AF,
+	MotionState_Crouch_Idle = 0x43FB099E,
+	MotionState_Crouch_Jog = 0x6CB208A0,
+	MotionState_Crouch_Run = 0x3593CF09,
+	MotionState_Crouch_Walk = 0x08C31A98,
+	MotionState_Diving_Idle = 0x4848CDED,
+	MotionState_Idle = 0x9072A713,
+	MotionState_Jog = 0xABA49932,
+	MotionState_None = 0xEE717723,
+	MotionState_Run = 0xFFF7E7A4,
+	MotionState_RunStop = 0xECB32E00,
+	MotionState_Sprint = 0xBD8817DB,
+	MotionState_SprintStop = 0xDEBA9A6E,
+	MotionState_Swimming_TreadWater = 0xD1BF11C7,
+	MotionState_Walk = 0xD827C3DB,
+	MotionState_WalkStop = 0x3DFCD7A3
+};
